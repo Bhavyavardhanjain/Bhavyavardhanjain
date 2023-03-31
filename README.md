@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![@bhavya's Holopin board](https://holopin.me/bhavya)](https://holopin.io/@bhavya)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bhavyavardhanjain&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
