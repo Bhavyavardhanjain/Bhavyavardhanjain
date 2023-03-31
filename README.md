@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bhavyavardhanjain&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyavardhanjain&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavyavardhanjain)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bhavyavardhanjain)](https://github.com/ashutosh00710/github-readme-activity-graph)
