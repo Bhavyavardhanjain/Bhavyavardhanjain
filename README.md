@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bhavyavardhanjain)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bhavyavardhanjain)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bhavyavardhanjain)](https://github.com/ryo-ma/github-profile-trophy)
