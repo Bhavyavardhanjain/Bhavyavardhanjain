@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bhavyavardhanjain)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bhavyavardhanjain&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyavardhanjain&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyavardhanjain&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
