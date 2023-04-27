@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bhavyavardhanjain)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bhavyavardhanjain&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyavardhanjain&size_weight=0.5&count_weight=0.5&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhavya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyavardhanjain&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhavya)](https://github.com/anuraghazra/github-readme-stats)
