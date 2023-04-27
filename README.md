@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![@bhavya's Holopin board](https://holopin.me/bhavya)](https://holopin.io/@bhavya)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bhavyavardhanjain&theme=submarine-flowers&border_radius=5&fire=DD701B&card_width=200px)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bhavyavardhanjain&theme=submarine-flowers&border_radius=5&fire=DD701B&card_width=300px)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavyavardhanjain&card_width=200px)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bhavyavardhanjain)](https://github.com/ashutosh00710/github-readme-activity-graph)
