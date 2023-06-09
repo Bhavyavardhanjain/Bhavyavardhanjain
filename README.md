@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavyavardhanjain&show_icons=true&locale=en" alt="bhavyavardhanjain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyavardhanjain&" alt="bhavyavardhanjain" /></p>
+[![An image of @bhavya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavya)](https://holopin.io/@bhavya)
